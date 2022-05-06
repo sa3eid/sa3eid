@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sa3eid)](https://github.com/sa3eid/github-profile-trophy)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sa3eid&" alt="sa3eid" /></p>
+
 ## ⚡ Technologies
 
 <!--- just --->
