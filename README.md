@@ -1,7 +1,7 @@
 ## Hi there ! <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" style="max-width: 100%;">
 <h4> Backend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
-Software engineer specialized in @php software development and certified from hackerrank hackerrank.com/sa3eid
+Software engineer specialized in @php and @laravel software development and certified from hackerrank hackerrank.com/sa3eid
 
 ### You can find my stuff here :leaves:
 
@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <!--- just --->
 
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-00599C?style=flat-square&logo=Laravel)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 
 ### Languages and Tools
 
-<img align="left" src="https://simpleicons.org/icons/laravel.svg" alt="Laravel" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/php.svg" alt="PHP" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/laravel.svg" alt="Laravel" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/javascript.svg" alt="JS" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/html5.svg" alt="HTML5" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/css3.svg" alt="CSS3" height="40px" />
