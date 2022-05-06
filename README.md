@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<hr>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sa3eid)](https://github.com/sa3eid/github-profile-trophy)
+
 ## ⚡ Technologies
 
 <!--- just --->
